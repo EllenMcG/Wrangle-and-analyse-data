@@ -4,9 +4,11 @@ As part of the wrangling section as part of the Udacity Data Analyst Nanodegree,
 As part of the project at least 8 quality cleaning operations and at least 2 tidy cleaning operations need to be performed using Python.
 
 In this reposoite the following files are found  
-- Wrangle_act.ipynb: Jupyter Notebook used for gathering, assessing, cleaning, analyzing and visualising data
+- wrangle_act.ipynb: Jupyter Notebook used for gathering, assessing, cleaning, analyzing and visualising data
+- wrangle_act.html: html version of Jupyter Notebook used for this project
 - twitter_archieve_enhanced.csv: file used as given by Udacity containing Tweet data from WeRateDogs(@dog_rates) Twitter account. 
 - image_predictions.tsv: file downloaded programmaticlly and containing predictions of dogs in photos in tweets (file as given, but predicted using neural networks as part of the Machine Learning ND)
+- api_tweets.csv: exported CSV file of extracted information of JSON file
 - tweet_json.txt: file containing tweet information from JSON format that was constructed using the Twitter API
 - twitter_archieve_master.csv: the exported CSV file from the resuling cleaning operations and merged files
 - README.md: readme file of this repository.
